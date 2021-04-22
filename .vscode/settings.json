@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "git.ignoreLimitWarning": true,
+    //"python.linting.pydocstyleEnabled": false,
+    "python.linting.pylintArgs": ["--errors-only"],
+
+
+}
